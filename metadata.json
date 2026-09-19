@@ -1,0 +1,7 @@
+{
+  "name": "Horizonte Viagens Internacionais",
+  "description": "Agência especializada em viagens internacionais sob medida, pacotes exclusivos, suporte concierge 24/7 e assessoria completa para sua próxima aventura pelo mundo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
